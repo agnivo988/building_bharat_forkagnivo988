@@ -173,7 +173,7 @@ NODE_ENV=development
 ## 🤝 Contributing
 
 1. Fork the repository
-2. work on dev branch: `git checkout -b dev`
+2. work on dev branch: `git checkout dev`
 3. Make your changes
 4. Commit: `git commit -m 'Add feature'`
 5. Push: `git push origin dev`
