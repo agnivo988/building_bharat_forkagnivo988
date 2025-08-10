@@ -1,0 +1,8 @@
+{
+    "extends": "next/core-web-vitals",
+    "rules": {
+      "no-warning-comments": "off",        // allow TODO, FIXME, etc.
+      "no-restricted-syntax": "off"        // allow eslint-disable comments
+    }
+  }
+  
